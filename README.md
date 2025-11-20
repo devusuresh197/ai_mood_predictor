@@ -1,10 +1,10 @@
-# 🤖 AI Mood Predictor 🧠
+#  AI Mood Predictor 
 
 A lightweight machine learning application that predicts your mood score (1–10) based on daily habits like **sleep duration, screen time, and exercise**.
 
 Built using **Scikit-learn**, **Python**, and deployed with **Gradio**.
 
-## ⭐ Overview
+##  Overview
 
 This project is designed to help users understand how their daily routine affects their mental well-being. It predicts your mood and provides a short motivational message.
 
@@ -17,7 +17,7 @@ This is a **beginner-friendly ML project** demonstrating:
 
 ---
 
-## 🚀 Features
+##  Features
 
 * **Predicts mood score** on a scale of 1–10.
 * Provides contextual **motivational messages**.
@@ -27,14 +27,14 @@ This is a **beginner-friendly ML project** demonstrating:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ai_mood_predictor/ │ ├── app.py # Gradio app logic ├── mood_model.pkl # Saved ML model (Linear Regression) ├── requirements.txt # Python dependencies └── README.md # Documentation
 
 
 ---
 
-## 🧬 Machine Learning Model
+##  Machine Learning Model
 
 The model used is **Linear Regression**.
 
@@ -48,7 +48,7 @@ The model used is **Linear Regression**.
 
 ---
 
-## 🎯 Inputs & Output
+##  Inputs & Output
 
 ### Input fields
 
